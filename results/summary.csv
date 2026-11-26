@@ -1,0 +1,13 @@
+﻿method,split,scene,frames,points,pooled_hit_rate,mean_hit_rate,mean_mae_px,mean_ms
+baseline,test,all,6,304,0.6349,0.6004,18.63,6.75
+baseline,test,straight,3,165,0.8,0.7994,13.83,6.45
+baseline,test,curve,3,139,0.4388,0.4014,25.82,7.04
+baseline,tune,all,2,106,0.5566,0.5418,17.27,5.46
+baseline,tune,straight,1,56,0.8036,0.8036,14.34,6.13
+baseline,tune,curve,1,50,0.28,0.28,20.2,4.8
+improved,test,all,6,304,0.6414,0.613,16.16,10.56
+improved,test,straight,3,165,0.6485,0.6447,16.4,11.07
+improved,test,curve,3,139,0.6331,0.5813,15.91,10.05
+improved,tune,all,2,106,0.3679,0.3568,45.38,7.63
+improved,tune,straight,1,56,0.5536,0.5536,23.61,8.63
+improved,tune,curve,1,50,0.16,0.16,67.14,6.63

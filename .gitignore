@@ -1,0 +1,10 @@
+.venv/
+data/raw/
+data/labels/
+data/hf_index.json
+data/candidates.json
+data/montage.jpg
+data/cmp*.jpg
+data/gt_check.jpg
+__pycache__/
+*.pyc

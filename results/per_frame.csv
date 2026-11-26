@@ -1,0 +1,17 @@
+﻿seq,frame,role,scene,curvature,method,n_points,hits,hit_rate,hit_left,hit_right,mae_px,left_missed,right_missed,ms_median
+clips/0601/1494452463561061228,20.jpg,tune,straight,7.2,baseline,56,45,0.8036,0.6071,1.0,14.34,0,0,6.13
+clips/0601/1494452463561061228,20.jpg,tune,straight,7.2,improved,56,31,0.5536,0.4286,0.6786,23.61,0,0,8.63
+clips/0313-1/10820,20.jpg,tune,curve,153.1,baseline,50,14,0.28,0.5,0.0,20.2,0,1,4.8
+clips/0313-1/10820,20.jpg,tune,curve,153.1,improved,50,8,0.16,0.2857,0.0,67.14,0,1,6.63
+clips/0313-2/11520,20.jpg,test,straight,0.1,baseline,54,45,0.8333,0.9259,0.7407,15.45,0,0,5.63
+clips/0313-2/11520,20.jpg,test,straight,0.1,improved,54,11,0.2037,0.0,0.4074,22.23,0,0,11.24
+clips/0313-2/11220,20.jpg,test,straight,0.2,baseline,55,35,0.6364,0.5714,0.7037,16.7,0,0,7.46
+clips/0313-2/11220,20.jpg,test,straight,0.2,improved,55,50,0.9091,0.8214,1.0,14.11,0,0,10.55
+clips/0601/1494452427576086954,20.jpg,test,straight,0.2,baseline,56,52,0.9286,0.8571,1.0,9.35,0,0,6.27
+clips/0601/1494452427576086954,20.jpg,test,straight,0.2,improved,56,46,0.8214,0.8571,0.7857,12.87,0,0,11.43
+clips/0531/1492627485614418298,20.jpg,test,curve,303.3,baseline,56,0,0.0,0.0,0.0,,1,1,7.74
+clips/0531/1492627485614418298,20.jpg,test,curve,303.3,improved,56,28,0.5,0.0,1.0,7.28,1,0,11.63
+clips/0313-2/10860,20.jpg,test,curve,320.2,baseline,56,55,0.9821,0.9643,1.0,15.98,0,0,6.64
+clips/0313-2/10860,20.jpg,test,curve,320.2,improved,56,51,0.9107,0.8214,1.0,13.13,0,0,10.04
+clips/0313-2/12180,20.jpg,test,curve,333.5,baseline,27,6,0.2222,0.2222,,35.66,0,1,6.75
+clips/0313-2/12180,20.jpg,test,curve,333.5,improved,27,9,0.3333,0.3333,,27.32,0,1,8.47
